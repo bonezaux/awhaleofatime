@@ -1,0 +1,1072 @@
+fileFormatVersion: 2
+guid: 5d8f653281c3bb34794c6533120777ee
+timeCreated: 1477824846
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: whale_idle2
+    21300002: whale_idle1
+    21300004: tree_oak_idle1
+    21300006: whale_idle3
+    21300008: whale_idle4
+    21300010: whale_idle5
+    21300012: whale_idle6
+    21300014: axe_1
+    21300016: axe_2
+    21300018: axe_3
+    21300020: axe_4
+    21300022: axe_5
+    21300024: axe_6
+    21300026: grass_1
+    21300028: rock_1
+    21300030: tree_oak_idle2
+    21300032: tree_oak_death1
+    21300034: tree_oak_death2
+    21300036: tree_oak_death3
+    21300038: tree_oak_death4
+    21300040: tree_oak_dead2
+    21300042: spruce_idle1
+    21300044: spurce_idle2
+    21300046: spruce_death3
+    21300048: spruce_death4
+    21300050: spruce_dead2
+    21300052: spruce_death2
+    21300054: axe_lost
+    21300056: whale_head_hurt
+    21300058: whale_head_fine
+    21300060: tree_cactus_idle1
+    21300062: tree_cactus_death1
+    21300064: tree_cactus_death2
+    21300066: tree_cactus_death3
+    21300068: tree_cactus_death4
+    21300070: tree_cactus_dead1
+    21300072: selectedMapNode
+    21300074: map_node
+    21300076: mountainflower_idle1
+    21300078: mountainflower_idle2
+    21300080: mountainflower_dead
+    21300082: combosignyellow_idle1
+    21300084: combosignyellow_idle2
+    21300086: combosignyellow_death2
+    21300088: combosignyellow_death3
+    21300090: combosignyellow_death4
+    21300092: combosignblue_idle1
+    21300094: combosignblue_idle2
+    21300096: combosignblue_death2
+    21300098: combosignblue_death3
+    21300100: combosignblue_death4
+    21300102: combosigngreen_idle1
+    21300104: combosigngreen_idle2
+    21300106: combosigngreen_death2
+    21300108: combosigngreen_death3
+    21300110: combosigngreen_death4
+    21300112: ice_1
+    21300114: sand_1
+    21300116: hitText_perfect
+    21300118: hitText_great
+    21300120: hitText_normal
+    21300122: hitText_fail
+    21300124: comboPost_20
+    21300126: comboPost_death2
+    21300128: comboPost_death3
+    21300130: comboPost_death4
+    21300132: tree_yew_idle1
+    21300134: tree_yew_death2
+    21300136: tree_yew_death3
+    21300138: tree_yew_death4
+    21300140: tree_yew_death5
+    21300142: void_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: 5
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: whale_idle2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 996
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whale_idle1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 996
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_oak_idle1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whale_idle3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 996
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whale_idle4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 996
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whale_idle5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 997
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whale_idle6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 997
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: axe_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 974
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: axe_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 981
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: axe_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 978
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: axe_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 974
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: axe_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 982
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: axe_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 979
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: grass_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 917
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rock_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_oak_idle2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 928
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_oak_death1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_oak_death2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 896
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.346, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_oak_death3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 865
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.28125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_oak_death4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.183, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_oak_dead2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.183, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spruce_idle1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 767
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spurce_idle2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 767
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spruce_death3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 767
+        width: 28
+        height: 32
+      alignment: 9
+      pivot: {x: 0.357, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spruce_death4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 767
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spruce_dead2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 767
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spruce_death2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 767
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: axe_lost
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 952
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whale_head_hurt
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 952
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whale_head_fine
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 952
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_cactus_idle1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_cactus_death1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 735
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_cactus_death2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 735
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_cactus_death3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 735
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_cactus_death4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 735
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_cactus_dead1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 735
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: selectedMapNode
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 711
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: map_node
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 791
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountainflower_idle1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 679
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountainflower_idle2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 679
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountainflower_dead
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 679
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: combosignyellow_idle1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 752
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: combosignyellow_idle2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 752
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: combosignyellow_death2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 752
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: combosignyellow_death3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 752
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: combosignyellow_death4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 752
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: combosignblue_idle1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 720
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: combosignblue_idle2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 720
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: combosignblue_death2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 720
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: combosignblue_death3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 720
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: combosignblue_death4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 720
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: combosigngreen_idle1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 688
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: combosigngreen_idle2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 688
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: combosigngreen_death2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 688
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: combosigngreen_death3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 688
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: combosigngreen_death4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 688
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ice_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 917
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sand_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 917
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hitText_perfect
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 934
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hitText_great
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 904
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hitText_normal
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 950
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hitText_fail
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 927
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: comboPost_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 667
+        width: 14
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: comboPost_death2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 667
+        width: 4
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: comboPost_death3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 667
+        width: 14
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: comboPost_death4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 667
+        width: 4
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_yew_idle1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 579
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_yew_death2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 579
+        width: 67
+        height: 64
+      alignment: 9
+      pivot: {x: 0.313, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_yew_death3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 579
+        width: 74
+        height: 64
+      alignment: 9
+      pivot: {x: 0.1892, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_yew_death4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 579
+        width: 88
+        height: 64
+      alignment: 9
+      pivot: {x: 0.1591, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_yew_death5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 579
+        width: 88
+        height: 64
+      alignment: 9
+      pivot: {x: 0.1591, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: void_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 901
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
